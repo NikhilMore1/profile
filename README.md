@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prathmesh!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nikhil!;" />
 </h1>
 
 <h2 align="center">A passionate Full Stack Web developer</h2>
@@ -12,9 +12,9 @@
  
 🌱 I’m currently looking out for Job Opportunities
 
-🎆 How to reach me *prath47@gmail.com*
+🎆 How to reach me *moren9817@gmail.com*
 
-💬 Ask me about *Mern Stack, Competative Programming , DSA , Selenium*
+💬 Ask me about *Mern Stack, Competative Programming , DSA , App Development*
 
 ⚡ Fun fact *The original name for JavaScript was Mocha!*
 
@@ -23,7 +23,7 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:prath47@gmail.com">
+  <a href="mailto:moren9817@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/prathmesh-waghmare-591716231/" target="_blank">
